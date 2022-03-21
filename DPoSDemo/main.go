@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code/0522/DPoSDemo/Block"
+	"DPoSDemo/Block"
 	"math/rand"
 	"time"
 	"fmt"
